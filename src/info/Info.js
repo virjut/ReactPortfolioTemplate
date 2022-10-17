@@ -23,29 +23,29 @@ of what each of the values mean.
  */
 
 export const info = {
-    firstName: "John",
-    lastName: "Smith",
-    initials: "js", // the example uses first and last, but feel free to use three or more if you like.
+    firstName: "Jutta",
+    lastName: "Virta",
+    initials: "jv", // the example uses first and last, but feel free to use three or more if you like.
     position: "a Full Stack Developer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
     miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
         {
-            emoji: '☕',
-            text: 'fueled by coffee'
+            emoji: ':D',
+            text: 'fueled by joy and happiness'
         },
         {
             emoji: '🌎',
-            text: 'based in the US'
+            text: 'based in the FI'
         },
         {
             emoji: "💼",
-            text: "Systems Engineer at Google"
+            text: "Junior developer at Academic Work"
         },
         {
             emoji: "📧",
-            text: "johnsmith@gmail.com"
+            text: "jutta563@gmail.com"
         }
     ],
     socials: [
@@ -60,20 +60,16 @@ export const info = {
             label: 'instagram'
         },
         {
-            link: "https://github.com",
+            link: "https://github.com/virjut",
             icon: "fa fa-github",
             label: 'github'
         },
         {
-            link: "https://linkedin.com",
+            link: "https://www.linkedin.com/in/jutta-virta-a7a3bb204",
             icon: "fa fa-linkedin",
             label: 'linkedin'
         },
-        {
-            link: "https://twitter.com",
-            icon: "fa fa-twitter",
-            label: 'twitter'
-        }
+    
 // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
 // Just change the links so that they lead to your social profiles.
 
@@ -87,54 +83,42 @@ export const info = {
     ,
     hobbies: [
         {
-            label: 'reading',
-            emoji: '📖'
+            label: 'cyckling',
+            emoji: ''
         },
         {
-            label: 'theater',
-            emoji: '🎭'
+            label: 'camping',
+            emoji: ''
         },
-        {
-            label: 'movies',
-            emoji: '🎥'
-        },
-        {
-            label: 'cooking',
-            emoji: '🌶'
-        }
+        
 // Same as above, change the emojis to match / relate to your hobbies or interests.
 // You can also remove the emojis if you'd like, I just think they look cute :P
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Project 1",
-            live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
+            title: "Portfolio Template",
+            live: "Not available.", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            source: "https://github.com/virjut/ReactPortfolioTemplate", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {
-            title: "Project 2",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Diary",
+            live: "Not available.",
+            source: "https://github.com/virjut/DiaryMVC",
             image: mock2
         },
         {
-            title: "Project 3",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Rock-Paper-Scissors (back-end)",
+            live: "Not available.",
+            source: "https://github.com/virjut/Rock-paper-scissors",
             image: mock3
         },
         {
-            title: "Project 4",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Coming soon or later this year..",
+            live: "Not available.",
+            source: "https://github.com/virjut",
             image: mock4
         },
-        {
-            title: "Project 5",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock5
-        }
+       
     ]
 }
