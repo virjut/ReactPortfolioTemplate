@@ -3,7 +3,7 @@ import mock1 from "../img/mock1.png"
 import mock2 from "../img/mock2.png"
 import mock3 from "../img/mock3.png"
 import mock4 from "../img/mock4.png"
-import mock5 from "../img/mock5.png"
+
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -74,11 +74,11 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm John. I'm a systems engineer for Google. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello! I'm Jutta. Junior Full stack developer. Career changer from nurse to coder. Still working as a traineelevel or entrylevel. Open-minded person. You should hire me!",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
-            exposedTo: ['nodejs', 'python', 'adobe illustrator']
+            famialiarWith: ['C#', 'javascript', 'react', 'git', 'github', 'html', 'css'],
+            exposedTo: ['nodejs', 'python']
         }
     ,
     hobbies: [
@@ -90,6 +90,10 @@ export const info = {
             label: 'camping',
             emoji: ''
         },
+        {
+            label: 'dancing'
+            
+        }
         
 // Same as above, change the emojis to match / relate to your hobbies or interests.
 // You can also remove the emojis if you'd like, I just think they look cute :P
