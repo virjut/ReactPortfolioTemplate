@@ -74,7 +74,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm Jutta. Junior Full stack developer. Career changer from nurse to coder. Still working as a traineelevel or entrylevel. Open-minded person. You should hire me!",
+    bio: "Hello! I'm Jutta. I'm Junior Full stack developer. i'm career changer from nurse to coder and still working as a traineelevel or entrylevel. Open-minded person. You should hire me!",
     skills:
         {
             famialiarWith: ['C#', 'javascript', 'react', 'git', 'github', 'html', 'css'],
