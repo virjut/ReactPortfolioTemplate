@@ -25,7 +25,7 @@ of what each of the values mean.
 export const info = {
     firstName: "Jutta",
     lastName: "Virta",
-    initials: "jv", // the example uses first and last, but feel free to use three or more if you like.
+    initials: "Who?", // the example uses first and last, but feel free to use three or more if you like.
     position: "a Full Stack Developer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
@@ -77,7 +77,7 @@ export const info = {
     bio: "Hello! I'm Jutta. I'm Junior Full stack developer. i'm career changer from nurse to coder and still working as a traineelevel or entrylevel. Open-minded person. You should hire me!",
     skills:
         {
-            famialiarWith: ['C#', 'javascript', 'react', 'git', 'github', 'html', 'css'],
+            proficientWith: ['C#', 'javascript', 'react', 'git', 'github', 'html', 'css'],
             exposedTo: ['nodejs', 'python']
         }
     ,
